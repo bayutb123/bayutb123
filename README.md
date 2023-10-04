@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">I am a Full Stack Web Developer from Dhaka, Bangladesh. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
+<h1 align="center">Hi 👋, I'm Bayu Tantra</h1>
+<h3 align="center">I am a Native Android Developer. I'm working on Jetpack Compose and currently expanding to Flutter to target Multiplatform Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
