@@ -74,11 +74,4 @@
   <summary> ✌️ My GitHub Analytics </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayutb123&show_icons=true&locale=en&layout=compact&theme=radical" alt="bayutb123" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=bayutb123&show_icons=true&locale=en&theme=radical" alt="bayutb123" /></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bayutb123&theme=radical" alt="bayutb123" /></p>
-<p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bayutb123&theme=github" /></p>
 </details>
-
-----
-Credits: [devboyarif](https://github.com/devboyarif)
-
-Last Edited on: 3/09/2021
