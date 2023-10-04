@@ -24,9 +24,21 @@
 
 <table align="center">
   <tr>
+    <td align="center" width="96">
+      <a href="#kotlin">
+        <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
       <td align="center" width="96">
       <a href="#kotlin">
-        <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/3bbebda874e6003b.png?hl=id" width="48" height="48" alt="Kotlin" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
     </td>
