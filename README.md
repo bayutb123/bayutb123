@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img width="100%" height="auto" src="https://www.nevinainfotech.com/new-ni-images/services_pages_img/android-app-development-img.svg" height="175px"/>
 <h1 align="center">Hi 👋, I'm Bayu Tantra</h1>
 <h3 align="center">I am a Native Android Developer. I'm working on Jetpack Compose and currently expanding to Flutter to target Multiplatform Development.</h3>
 
