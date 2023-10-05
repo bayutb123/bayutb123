@@ -35,6 +35,12 @@
       </a>
       <br>VS Code
     </td>
+    <td align="center" width="96">
+      <a href="#Postman">
+        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
       <td align="center" width="96">
       <a href="#kotlin">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="48" height="48" alt="Kotlin" />
@@ -65,12 +71,7 @@
       </a>
       <br>JS
     </td>
-    <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="48" height="48" alt="laravel" />
-      </a>
-      <br>Laravel
-    </td>
+    
      
   </tr>
 </table>
