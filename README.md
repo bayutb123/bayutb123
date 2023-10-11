@@ -25,7 +25,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#kotlin">
-        <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" width="48" height="48" alt="Android Studio" />
+        <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="48" height="48" alt="Android Studio" />
       </a>
       <br>Android Studio
     </td>
